@@ -33,11 +33,11 @@ const Footer = () => {
           <div className="footer__col">
             <h4 className="footer__heading">Visit Us</h4>
             <address className="footer__address">
-              <p>123 Gourmet Avenue</p>
-              <p>Downtown District</p>
-              <p>Mumbai, India 400001</p>
+              <p>45 Koregaon Park</p>
+              <p>Koregaon Park</p>
+              <p>Pune, Maharashtra 411001</p>
             </address>
-            <a href="tel:+919876543210" className="footer__link mt-md">+91 98765 43210</a>
+            <a href="tel:+918000012345" className="footer__link mt-md">+91 80000 12345</a>
           </div>
 
           {/* Opening Hours */}

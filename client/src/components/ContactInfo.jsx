@@ -10,8 +10,8 @@ const ContactInfo = () => {
         </svg>
       ),
       label: 'Address',
-      value: '123 Gourmet Avenue, Downtown District',
-      subvalue: 'Mumbai, India 400001',
+      value: '45 Koregaon Park',
+      subvalue: 'Pune, Maharashtra 411001',
     },
     {
       icon: (
@@ -20,8 +20,8 @@ const ContactInfo = () => {
         </svg>
       ),
       label: 'Phone',
-      value: '+91 98765 43210',
-      href: 'tel:+919876543210',
+      value: '+91 80000 12345',
+      href: 'tel:+918000012345',
     },
     {
       icon: (

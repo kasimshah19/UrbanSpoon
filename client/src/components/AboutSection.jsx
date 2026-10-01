@@ -33,7 +33,7 @@ const AboutSection = () => {
           </h2>
           <div className="divider"></div>
           <p className="about__text">
-            Founded in 2020, Urban Spoon was born from a simple belief: great food has the power to bring people together. Nestled in the heart of Mumbai, our restaurant blends contemporary culinary techniques with the rich, vibrant flavors of global cuisine.
+            Founded in 2020, Urban Spoon was born from a simple belief: great food has the power to bring people together. Nestled in the heart of Pune, our restaurant blends contemporary culinary techniques with the rich, vibrant flavors of global cuisine.
           </p>
           <p className="about__text">
             Our chefs draw inspiration from farm-fresh, locally sourced ingredients to create dishes that surprise and delight. From our hand-rolled pastas to our signature grilled specialties, every plate is crafted with care, creativity, and a deep respect for tradition.

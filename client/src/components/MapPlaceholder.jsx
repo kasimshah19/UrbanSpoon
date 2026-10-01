@@ -30,7 +30,7 @@ const MapPlaceholder = () => {
               <circle cx="12" cy="10" r="3" fill="var(--color-bg-primary)"/>
             </svg>
           </div>
-          <p className="map-placeholder__label">123 Gourmet Avenue, Mumbai</p>
+          <p className="map-placeholder__label">45 Koregaon Park, Pune</p>
         </div>
       </div>
     </div>

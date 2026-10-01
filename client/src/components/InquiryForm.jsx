@@ -130,7 +130,7 @@ const InquiryForm = () => {
               type="tel"
               id="inquiry-phone"
               name="phone"
-              placeholder="+91 98765 43210"
+              placeholder="+91 80000 12345"
               value={formData.phone}
               onChange={handleChange}
               required

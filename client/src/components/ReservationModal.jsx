@@ -199,7 +199,7 @@ const ReservationModal = ({ table, onClose, onBookingConfirmed }) => {
                 type="tel"
                 id="res-guest-phone"
                 className="form-input"
-                placeholder="+91 98765 43210"
+                placeholder="+91 80000 12345"
                 value={guestPhone}
                 onChange={(e) => setGuestPhone(e.target.value)}
                 required

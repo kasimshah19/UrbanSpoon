@@ -215,3 +215,16 @@ npm run dev
 - [x] **Admin Portal**: Real-time retrieval of submitted table inquiries from MongoDB Atlas, search filter, formatted dates.
 - [x] **Cloud Deployment**: Backend deployed on **Render**, Frontend deployed on **Vercel**, Database hosted on **MongoDB Atlas**.
 - [x] **Responsive Layout**: Mobile navigation, adaptive grids, flexbox layouts tested for mobile, tablet, and desktop screens.
+
+---
+
+## Author
+
+**Kasim Shah**
+
+Connect with me:
+- Portfolio: [kasim-portfolio-umber.vercel.app](https://kasim-portfolio-umber.vercel.app/)
+- LinkedIn: [Kasim Shah](https://www.linkedin.com/in/kasim-shah-176175340/)
+- GitHub: [@kasimshah19](https://github.com/kasimshah19)
+
+© 2026 Urban Spoon. All rights reserved.

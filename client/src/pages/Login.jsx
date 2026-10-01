@@ -244,7 +244,7 @@ const Login = () => {
 
             <button
               type="submit"
-              className={`btn btn--primary login-submit-btn ${loginRole === 'admin' ? 'login-submit-btn--admin' : ''}`}
+              className="btn btn--primary login-submit-btn"
               disabled={loading}
               id="auth-submit-btn"
             >

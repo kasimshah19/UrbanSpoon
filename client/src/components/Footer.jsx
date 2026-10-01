@@ -60,6 +60,9 @@ const Footer = () => {
           <p className="footer__copy">
             &copy; {new Date().getFullYear()} Urban Spoon. All rights reserved.
           </p>
+          <p className="footer__designer" style={{ fontSize: 'var(--text-sm)', color: 'var(--color-text-muted)' }}>
+            Designed & Built by Kasim Shah
+          </p>
           <div className="footer__socials">
             <a href="#" className="footer__social" aria-label="Instagram" id="footer-instagram">
               <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">

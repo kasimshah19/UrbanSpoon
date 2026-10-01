@@ -227,4 +227,4 @@ Connect with me:
 - LinkedIn: [Kasim Shah](https://www.linkedin.com/in/kasim-shah-176175340/)
 - GitHub: [@kasimshah19](https://github.com/kasimshah19)
 
-© 2026 Urban Spoon. All rights reserved.
+<p align="center">© 2026 Urban Spoon. All rights reserved.</p>
